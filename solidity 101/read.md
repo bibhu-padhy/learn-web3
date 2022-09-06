@@ -1,1 +1,0 @@
-##### In 101 i have explained more on the data types, variables, constants and immutables
